@@ -1,0 +1,7 @@
+D:\ONP-RPN-master\ONP-RPN-master\bin\Debug\ONP.exe.config
+D:\ONP-RPN-master\ONP-RPN-master\bin\Debug\ONP.exe
+D:\ONP-RPN-master\ONP-RPN-master\bin\Debug\ONP.pdb
+D:\ONP-RPN-master\ONP-RPN-master\obj\Debug\ONP.csprojAssemblyReference.cache
+D:\ONP-RPN-master\ONP-RPN-master\obj\Debug\ONP.csproj.CoreCompileInputs.cache
+D:\ONP-RPN-master\ONP-RPN-master\obj\Debug\ONP.exe
+D:\ONP-RPN-master\ONP-RPN-master\obj\Debug\ONP.pdb
